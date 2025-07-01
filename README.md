@@ -1,43 +1,38 @@
 # BioMARS
 
-🔬 **BioMARS (Biological Multi-Agent Robotic System)** 是一个融合大语言模型（LLMs）、视觉-语言模型（VLMs）与模块化机器人技术的智能平台，旨在实现生物实验的自主设计、规划与执行。
+🔬 **BioMARS (Biological Multi-Agent Robotic System)** is an intelligent platform integrating Large Language Models (LLMs), Vision–Language Models (VLMs), and modular robotics to enable autonomous design, planning, and execution of biological experiments.
 
 ---
 
-## 📌 摘要
+## 📌 Abstract
 
-大型语言模型（LLMs）和视觉-语言模型（VLMs）在生物研究中具有变革潜力，能够推动实验自动化的发展。然而，其应用仍受限于固定的协议设计、对动态实验室环境适应性差、错误处理能力有限以及操作复杂度高。我们提出了 **BioMARS**，一种集成了 LLMs、VLMs 和模块化机器人系统的多智能体平台，能够自主完成生物实验的设计与执行。
+Large language models (LLMs) and vision–language models (VLMs) hold transformative potential for biological research by enabling autonomous experimentation. However, their application is hindered by rigid protocol design, limited adaptability to dynamic lab conditions, inadequate error handling, and high operational complexity. We introduce **BioMARS**, a multi-agent system combining LLMs, VLMs, and modular robotics to autonomously design and execute biological experiments.
 
-BioMARS 采用分层架构：
+BioMARS employs a hierarchical architecture:
+- **Biologist Agent**: Synthesizes experimental protocols via retrieval-augmented generation.
+- **Technician Agent**: Translates protocols into executable robotic pseudo-code.
+- **Inspector Agent**: Ensures procedural integrity through multimodal perception and anomaly detection.
 
-- **Biologist Agent**：通过检索增强生成（RAG）合成实验协议；
-- **Technician Agent**：将协议转化为可执行的机器人伪代码；
-- **Inspector Agent**：利用多模态感知与异常检测确保流程完整性。
-
-该系统能够自主进行细胞传代与培养任务，在存活率、一致性及形态完整性方面达到或优于人工操作水平。此外，系统支持上下文感知优化，在视网膜色素上皮细胞分化任务中表现优于传统策略。通过网页界面，用户可实现实时人机协作，而后端模块化设计支持与各类实验室硬件灵活集成。
-
-这些成果表明，基于语言推理的 AI 在推动通用型实验室自动化方面具有广阔前景，并将在生物研究领域发挥变革性作用。
+The system autonomously performs cell passaging and culture tasks, achieving or exceeding manual performance in viability, consistency, and morphological integrity. It also supports context-aware optimization, outperforming conventional strategies in differentiating retinal pigment epithelial cells. A web interface enables real-time human-AI collaboration, while a modular backend allows scalable integration with laboratory hardware. These results demonstrate the feasibility of generalizable, AI-driven laboratory automation and the transformative role of language-based reasoning in biological research.
 
 ---
 
-## 🧠 系统架构
+## 🧠 System Architecture
 
-### Agents 构成
+### Agents Overview
 
-| Agent            | 功能描述                                                                 |
+| Agent            | Function                                                                 |
 |------------------|--------------------------------------------------------------------------|
-| Biologist Agent  | 使用检索增强生成（RAG）技术生成实验协议                                  |
-| Technician Agent | 将自然语言协议转换为机器人可执行的伪代码                                 |
-| Inspector Agent  | 利用视觉与语言模型进行实时监测与异常识别，保障实验流程安全与质量         |
+| Biologist Agent  | Generates experimental protocols using retrieval-augmented generation (RAG) |
+| Technician Agent | Converts natural language protocols into robotic pseudo-code              |
+| Inspector Agent  | Monitors processes and detects anomalies via multimodal perception      |
 
 ---
 
-## 🤖 核心功能
+## 🤖 Key Features
 
-- **自主实验设计与执行**
-- **多模态感知与异常检测**
-- **细胞培养与传代自动化**
-- **上下文感知的任务优化**
-- **模块化软硬件集成**
-
----
+- **Autonomous Experiment Design & Execution**
+- **Multimodal Perception & Anomaly Detection**
+- **Automated Cell Culture & Passaging**
+- **Context-Aware Optimization**
+- **Modular Hardware/Software Integration**

@@ -2,7 +2,7 @@
 
 🔬 **BioMARS (Biological Multi-Agent Robotic System)** is an intelligent platform integrating Large Language Models (LLMs), Vision–Language Models (VLMs), and modular robotics to enable autonomous design, planning, and execution of biological experiments.
 
-![image](https://github.com/user-attachments/assets/9b5b76e5-2956-4fbb-b151-03c866bcbcd2)
+![structure(1)](https://github.com/user-attachments/assets/25eb2092-411d-4605-a4d1-42a6c696c4f1)
 
 ---
 

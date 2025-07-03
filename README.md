@@ -6,6 +6,15 @@
 
 ---
 
+## Table of Contents
+- [📄 Paper](#-paper)
+- [📌 Abstract](#-abstract)
+- [🧠 System Architecture](#-system-architecture)
+- [🤖 Key Features](#-key-features)
+- [🎥 Demo](#-demo)
+
+---
+
 ## 📄 Paper
 
 ✒️ Yibo Qiu, Zan Huang, Zhiyu Wang, Handi Liu, Yiling Qiao, Yifeng Hu, Shu'ang Sun, Hangke Peng, Ronald X Xu, Mingzhai Sun

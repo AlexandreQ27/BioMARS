@@ -4,6 +4,14 @@
 
 ---
 
+## 📄 Paper
+
+✒️ Yibo Qiu, Zan Huang, Zhiyu Wang, Handi Liu, Yiling Qiao, Yifeng Hu, Shu'ang Sun, Hangke Peng, Ronald X Xu, Mingzhai Sun
+
+🔥 https://arxiv.org/abs/2507.01485
+
+---
+
 ## 📌 Abstract
 
 Large language models (LLMs) and vision–language models (VLMs) hold transformative potential for biological research by enabling autonomous experimentation. However, their application is hindered by rigid protocol design, limited adaptability to dynamic lab conditions, inadequate error handling, and high operational complexity. We introduce **BioMARS**, a multi-agent system combining LLMs, VLMs, and modular robotics to autonomously design and execute biological experiments.
@@ -36,3 +44,21 @@ The system autonomously performs cell passaging and culture tasks, achieving or 
 - **Automated Cell Culture & Passaging**
 - **Context-Aware Optimization**
 - **Modular Hardware/Software Integration**
+
+---
+
+## 🎥 Demo
+Real-world robot experiments.
+
+https://github.com/user-attachments/assets/c06b4494-ccc1-4506-b199-57fe7158a267
+
+https://github.com/user-attachments/assets/26c25e95-a553-4024-b751-72de582e23cb
+
+https://github.com/user-attachments/assets/5a1197a2-24e6-40b3-bcf2-ab2bedee73a8
+
+
+
+
+
+
+

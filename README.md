@@ -61,11 +61,19 @@ The system autonomously performs cell passaging and culture tasks, achieving or 
 ## 🎥 Demo
 Real-world robot experiments.
 
-https://github.com/user-attachments/assets/c06b4494-ccc1-4506-b199-57fe7158a267
 
-https://github.com/user-attachments/assets/26c25e95-a553-4024-b751-72de582e23cb
+https://github.com/user-attachments/assets/ea469a13-d455-48d0-ab5d-f2b5bd704555
 
-https://github.com/user-attachments/assets/5a1197a2-24e6-40b3-bcf2-ab2bedee73a8
+
+https://github.com/user-attachments/assets/f134ed1c-4727-4379-83e4-ce3af4dedff3
+
+
+https://github.com/user-attachments/assets/609dffaf-0cc4-4119-b23c-3efd48e5098e
+
+
+
+
+
 
 
 

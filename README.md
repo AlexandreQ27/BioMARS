@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/609dffaf-0cc4-4119-b23c-3efd48e5098e
 
 ## 📝 Citation
 
-If you find our research helpful and would like to reference it in your work, please consider the following citations:
+If you find our research valuable and would like to cite it in your work, please use the following references:
 
 ```bibtex
 @article{qiu2025biomars,

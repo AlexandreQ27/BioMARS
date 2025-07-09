@@ -1,5 +1,5 @@
 # BioMARS
-
+[![Static Badge](https://img.shields.io/badge/Project-Page-a)](https://alexandreq27.github.io/BioMARS-site/)
 🔬 **BioMARS (Biological Multi-Agent Robotic System)** is an intelligent platform integrating Large Language Models (LLMs), Vision–Language Models (VLMs), and modular robotics to enable autonomous design, planning, and execution of biological experiments.
 
 ![structure(1)](https://github.com/user-attachments/assets/25eb2092-411d-4605-a4d1-42a6c696c4f1)
@@ -70,7 +70,18 @@ https://github.com/user-attachments/assets/f134ed1c-4727-4379-83e4-ce3af4dedff3
 
 https://github.com/user-attachments/assets/609dffaf-0cc4-4119-b23c-3efd48e5098e
 
+## 📝 Citation
 
+If you find our research helpful and would like to reference it in your work, please consider the following citations:
+
+```bibtex
+@article{qiu2025biomars,
+  title={BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments},
+  author={Qiu, Yibo and Huang, Zan and Wang, Zhiyu and Liu, Handi and Qiao, Yiling and Hu, Yifeng and Sun, Shu'ang and Peng, Hangke and Xu, Ronald X and Sun, Mingzhai},
+  journal={arXiv preprint arXiv:2507.01485},
+  year={2025}
+}
+```
 
 
 
